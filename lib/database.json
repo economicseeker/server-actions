@@ -1,0 +1,50 @@
+{
+  "2": {
+    "id": 2,
+    "name": "Add new feature to the app",
+    "status": "closed",
+    "type": "feature"
+  },
+  "3": {
+    "id": 3,
+    "name": "Add new feature to the app",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "4": {
+    "id": 4,
+    "name": "Add new feature to the app",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "5": {
+    "id": 5,
+    "name": "Add new feature to the app",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "6": {
+    "id": 6,
+    "name": "Add new feature to the app",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "7": {
+    "id": 7,
+    "name": "Add new feature to the app",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "8": {
+    "id": 8,
+    "name": "Learn server actions",
+    "status": "open",
+    "type": "feature"
+  },
+  "9": {
+    "id": 9,
+    "name": "Fix Next.JS API Routes",
+    "status": "open",
+    "type": "open"
+  }
+}
